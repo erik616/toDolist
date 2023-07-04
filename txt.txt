@@ -1,0 +1,11 @@
+ {/* {data.length === 0
+            ? <Text
+              style={{ borderBottomColor: "#F4CD56", borderBottomWidth: 2, fontSize: 16, fontWeight: "500" }}
+            >
+              Ainda não a tarefas
+            </Text>
+            : data.map((item, key) => (
+              <Text
+                style={{ backgroundColor: "#fff", marginVertical: 6, paddingVertical: 8, paddingHorizontal: 4, width: "100%", borderRadius: 4, height: 60 }} key={key}>{item.task}</Text>
+            ))
+          } */}
